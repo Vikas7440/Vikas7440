@@ -8,7 +8,7 @@
 <br><br>
 - 🌱 I’m currently learning Microservices<br>
 - 💬 Ask me about: anything, I am happy to help<br>
--  📫 How to reach me vikasmandal8055@gmail.com<br>
+-  📫 How to reach me: <a href="mailTo:vikasmandal8055@gmail.com" target="blank">vikasmandal8055@gmail.com</a><br>
 - 	<img src="https://komarev.com/ghpvc/?username=iscpatricio92&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
 	<a href="https://github.com/iscpatricio92?tab=followers"><img src="https://img.shields.io/github/followers/iscpatricio92?label=Followers&style=social" alt="GitHub Badge" /></a>        </td>
       <td style="width: 50%;" border: none;>
