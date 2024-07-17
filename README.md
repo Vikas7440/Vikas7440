@@ -131,4 +131,4 @@
 
 <br>
 
-Credit: [Vikas06]((https://github.com/Vikas7440) Last Edit on 17/03/2024
+Credit: [Vikas06](https://github.com/Vikas7440) Last Edit on 17/03/2024
